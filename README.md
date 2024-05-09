@@ -13,6 +13,6 @@ DeepNLP homework
 2. 文档：HW02_Report_Cjy.pdf
 3. ipynb代码：hw02_LDA.ipynb
 4. 注意事项：
-   gensim-4.3.2需配合scipy1.13.0以下。The scipy.linalg functions tri, triu & tril are deprecated and will be removed in SciPy 1.13
-   scipy==1.10.1
+   gensim-4.3.2需配合scipy1.13.0以下。The scipy.linalg functions tri, triu & tril are deprecated and will be removed in SciPy 1.13  
+   本代码采用scipy==1.10.1
    
